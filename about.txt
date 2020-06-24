@@ -1,0 +1,6 @@
+Created by jhudson summer 2019.
+Sans serif font like a stencil.
+Used as the base for other fonts (f4, f5, f6) as well.
+
+
+Working name: f2
